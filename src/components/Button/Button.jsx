@@ -77,5 +77,3 @@ export const Buttons = ({ onAddExpense, onAddBudget, onCategorySelect }) => {
     </div>
   );
 };
-
-export default Buttons;
